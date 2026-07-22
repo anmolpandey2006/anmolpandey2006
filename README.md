@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Anmol Pandey
-***B.Tech (Data Science) Student | Passionate About AI, Machine Learning & Data Analytics**
+**B.Tech (Data Science) Student | Passionate About AI, Machine Learning & Data Analytics**
 
 - 🌱 **I’m currently learning:** Python, SQL, Data Science, Machine Learning
 - 🎯 *Current Goal:* Build strong fundamentals in Data Science and AI
